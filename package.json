@@ -1,0 +1,24 @@
+{
+  "name": "make-components",
+  "version": "1.0.0",
+  "description": "A React component library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthewGreenlaw/MakeComponents.git"
+  },
+  "keywords": [
+    "React",
+    "JS",
+    "Component"
+  ],
+  "author": "Matt Greenlaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatthewGreenlaw/MakeComponents/issues"
+  },
+  "homepage": "https://github.com/MatthewGreenlaw/MakeComponents#readme"
+}
