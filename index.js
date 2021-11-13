@@ -13,7 +13,7 @@ const mcHooks = {
     useState,
 }
 
-module.exports = {
+export {
     mcAPI,
     mcHooks,
 };
